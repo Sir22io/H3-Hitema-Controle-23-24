@@ -30,6 +30,8 @@ Creating the Dockerfile
 Creating the Python installation script
 ![SRV](https://github.com/Sir22io/Controle/blob/main/Pics/InstalPy.png)
 
+[![FastAPI run](https://github.com/Sir22io/Controle/actions/workflows/run.yml/badge.svg)](https://github.com/Sir22io/Controle/actions/workflows/run.yml)
+
 ### We can now test the configuration
 
 We have to build the docker container, lunch the app
