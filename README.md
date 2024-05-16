@@ -30,7 +30,8 @@ Creating the Dockerfile
 Creating the Python installation script
 ![SRV](https://github.com/Sir22io/Controle/blob/main/Pics/InstalPy.png)
 
-The Script Work here is the proof ;)
+The Script works, here is the proof ;)
+
 [![FastAPI run](https://github.com/Sir22io/Controle/actions/workflows/run.yml/badge.svg)](https://github.com/Sir22io/Controle/actions/workflows/run.yml)
 
 ### We can now test the configuration
