@@ -25,3 +25,9 @@ Creating the Dockerfile
 
 Creating the Python installation script
 ![SRV](https://github.com/Sir22io/Controle/blob/main/Pics/InstalPy.png)
+
+Trigger the chat with the command :
+``` curl -X POST http://localhost:5000/chat      -H "Content-Type: application/json"      -d '{"prompt":"What is the future of AI?"}' ```
+
+Here is the respond :
+![rps](https://github.com/Sir22io/Controle/blob/main/Pics/reponseia.png)
