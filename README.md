@@ -19,3 +19,9 @@ This way the app launch hitself from your PC
 
 Respond on the Web page
 ![PgeWeb](https://github.com/Sir22io/Controle/blob/main/Pics/Test%20Programme%20Local%20page%20web.png)
+
+Creating the Dockerfile
+![dockerfile](https://github.com/Sir22io/Controle/blob/main/Pics/Dockerfile.png)
+
+Creating the Python installation script
+![SRV](https://github.com/Sir22io/Controle/blob/main/Pics/InstalPy.png)
