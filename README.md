@@ -20,14 +20,25 @@ This way the app launch hitself from your PC
 Respond on the Web page
 ![PgeWeb](https://github.com/Sir22io/Controle/blob/main/Pics/Test%20Programme%20Local%20page%20web.png)
 
+## Set up and Dockerize the FastAPI Application
+
+### Set up a Dockerfile and a Installation Script for Python
+
 Creating the Dockerfile
 ![dockerfile](https://github.com/Sir22io/Controle/blob/main/Pics/Dockerfile.png)
 
 Creating the Python installation script
 ![SRV](https://github.com/Sir22io/Controle/blob/main/Pics/InstalPy.png)
 
-Trigger the chat with the command :
+### We can now test the configuration
+
+We have to build the docker container, lunch the app
+#### ! If you are on Windows, don't forget to Run and Start the Docker Descktop App !
+
+Trigger the chat with the command
 ``` curl -X POST http://localhost:5000/chat      -H "Content-Type: application/json"      -d '{"prompt":"What is the future of AI?"}' ```
 
-Here is the respond :
+Here is the respond from the Chat
 ![rps](https://github.com/Sir22io/Controle/blob/main/Pics/reponseia.png)
+
+## Create a Development Branch and Implement Testing
