@@ -11,6 +11,10 @@
 ### Local Test with Groq API
 
 Starting on the Local Server
+
+! To test Localy you must change the IP :
+from 0.0.0.0 to 127.0.0.1
+This way the app launch hitself from your PC
 ![SRV](https://github.com/Sir22io/Controle/blob/main/Pics/test%20local.png)
 
 Respond on the Web page
